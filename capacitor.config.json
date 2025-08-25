@@ -1,0 +1,27 @@
+{
+  "appId": "com.wedding.countdown.app",
+  "appName": "Wedding Countdown",
+  "webDir": "android-app",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#ffeaa7",
+    "appendUserAgent": "WeddingApp/1.0",
+    "overrideUserAgent": null,
+    "initialFocus": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "backgroundColor": "#ffeaa7",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Wedding Anniversary Countdown",
+  "short_name": "Wedding Timer",
+  "description": "Beautiful countdown timer for Abdulrahman and Suhaila wedding anniversary",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffeaa7",
+  "theme_color": "#e55d87",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://3000-inr2tnb1kga0jf2fmmieo-6532622b.e2b.dev/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://3000-inr2tnb1kga0jf2fmmieo-6532622b.e2b.dev/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://3000-inr2tnb1kga0jf2fmmieo-6532622b.e2b.dev/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://3000-inr2tnb1kga0jf2fmmieo-6532622b.e2b.dev/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://3000-inr2tnb1kga0jf2fmmieo-6532622b.e2b.dev/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["lifestyle", "utilities"],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "related_applications": []
+}
